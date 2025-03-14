@@ -4,11 +4,6 @@
 This project analyzes customer data to understand **purchasing behavior, campaign effectiveness, and market segmentation**.  
 The report covers **data preprocessing, exploratory data analysis (EDA), and insights visualization** to identify trends in customer demographics and spending habits.
 
-## 📂 Files Included
-- **📄 Marketing_Data_Analysis.pdf** - Full report with insights & visualizations.
-- **📄 marketing_analysis.ipynb** - Jupyter Notebook with code and analysis.
-- **📂 Data/** - Sample dataset (if available).
-- **📂 Visuals/** - Key graphs & charts.
 
 ## 📌 Key Insights:
 ✅ **Most customers prefer offline purchases over online.**  
