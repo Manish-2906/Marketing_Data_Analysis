@@ -23,8 +23,7 @@ The report covers **data preprocessing, exploratory data analysis (EDA), and ins
 - **Jupyter Notebook**
 - **GitHub** for version control
 
-📢 **Feel free to explore the report and notebook!** 🚀  
-If you find this analysis helpful, consider giving this repository a ⭐ on GitHub!
+
 
 ---
 
